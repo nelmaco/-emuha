@@ -67,7 +67,7 @@
 
 .uls-worldmap {
 	/* @embed */
-	background: transparent url('../images/world_map.png') no-repeat scroll right top;
+	background: transparent url('https://1.bp.blogspot.com/-eWKbj2azyaM/WnogEVcuWBI/AAAAAAAAAvk/aKJ7bXsKiKg-RpX6_RJvhckxiePxdCnWACLcBGAs/s1600/world_map.png') no-repeat scroll right top;
 	background-size: 100%;
 }
 
@@ -156,7 +156,7 @@ div.uls-region {
 
 .icon-close {
 	/* @embed */
-	background: transparent url('../images/close.png') no-repeat scroll center center;
+	background: transparent url('https://3.bp.blogspot.com/-RqG60taLRTg/WnofOYI7u5I/AAAAAAAAAnQ/qRJpkLwUxtM8vkJOJtzs5mC1hEarzCFPwCLcBGAs/s1600/close.png') no-repeat scroll center center;
 	float: right;
 	padding: 15px;
 	cursor: pointer;
